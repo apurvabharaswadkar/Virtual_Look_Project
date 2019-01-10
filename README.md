@@ -13,5 +13,7 @@ The project uses, PIL, tkinter for image processing and UI and haarcascade libra
 
 The code is in python.
 
-I have also uploaded the demo file to see how the app works.
+Instructions:
+Run the UI.py file from terminal/ command prompt. GUI opens up. USing Browse button upload the image of user, here you can load girl2.png.
+Using the Add button, you can load the cap/hat image, here you can load hat_black.png. Press Go button and check how the hat looks on the user. There is no refresh functionality added. To check for other images, yu will have to upload again the picture of user using browse button and picture of hat/cap using the add button.
 
